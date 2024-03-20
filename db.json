@@ -1,0 +1,224 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "question": "What is the best definition of React.js?",
+            "options": [
+                {
+                    "ans": "Server-side Framework",
+                    "answer": false
+                },
+                {
+                    "ans": "User-interface framework",
+                    "answer": false
+                },
+                {
+                    "ans": "A Library for building interaction interfaces",
+                    "answer": true
+                },
+                {
+                    "ans": "None of These",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "question": "Which of the following is true about key props?",
+            "options": [
+                {
+                    "ans": "'Key' prop is a way to identify the newly added element",
+                    "answer": true
+                },
+                {
+                    "ans": "'Key' props are used to look beauty",
+                    "answer": false
+                },
+                {
+                    "ans": "It is not used in the array",
+                    "answer": false
+                },
+                {
+                    "ans": "It is one type of attribute of HTML",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "question": "Which of the following is used to render components in web pages?",
+            "options": [
+                {
+                    "ans": "ReactDOM_render()",
+                    "answer": false
+                },
+                {
+                    "ans": "DOM_render()",
+                    "answer": false
+                },
+                {
+                    "ans": "transfer()",
+                    "answer": false
+                },
+                {
+                    "ans": "render()",
+                    "answer": true
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "question": "Which of the following method is true about referring parent class in React.js?",
+            "options": [
+                {
+                    "ans": "self()",
+                    "answer": false
+                },
+                {
+                    "ans": "super()",
+                    "answer": true
+                },
+                {
+                    "ans": "inherits()",
+                    "answer": false
+                },
+                {
+                    "ans": "this()",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "question": "Which of the following valid component return type of React?",
+            "options": [
+                {
+                    "ans": "1",
+                    "answer": true
+                },
+                {
+                    "ans": "2",
+                    "answer": false
+                },
+                {
+                    "ans": "5",
+                    "answer": false
+                },
+                {
+                    "ans": "3",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "question": "Which of the following is must for the API in React.js?",
+            "options": [
+                {
+                    "ans": "SetinitialComponent",
+                    "answer": false
+                },
+                {
+                    "ans": "renderComponent",
+                    "answer": true
+                },
+                {
+                    "ans": "render",
+                    "answer": false
+                },
+                {
+                    "ans": "All of the above",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "question": "Which of the following is true regarding Babel?",
+            "options": [
+                {
+                    "ans": "Compiler",
+                    "answer": false
+                },
+                {
+                    "ans": "Transpilar",
+                    "answer": false
+                },
+                {
+                    "ans": "Both of the above",
+                    "answer": true
+                },
+                {
+                    "ans": "None of the above",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "question": "Which function in React.js is invoked before a component gets its props reassigned?",
+            "options": [
+                {
+                    "ans": "componentWillRecieveProps()",
+                    "answer": true
+                },
+                {
+                    "ans": "componentWillControlProps()",
+                    "answer": false
+                },
+                {
+                    "ans": "componentWillStopProps()",
+                    "answer": false
+                },
+                {
+                    "ans": "componentRecieveProps()",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "question": "In React.js which one of the following is used to create a class for Inheritance?",
+            "options": [
+                {
+                    "ans": "Create",
+                    "answer": false
+                },
+                {
+                    "ans": "Inherits",
+                    "answer": false
+                },
+                {
+                    "ans": "Extends",
+                    "answer": true
+                },
+                {
+                    "ans": "Delete",
+                    "answer": false
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "question": "Which of the following is a way to handle data in React.js?",
+            "options": [
+                {
+                    "ans": "Services & Components",
+                    "answer": false
+                },
+                {
+                    "ans": "State & Services",
+                    "answer": false
+                },
+                {
+                    "ans": "State & Component",
+                    "answer": false
+                },
+                {
+                    "ans": "State & Props",
+                    "answer": true
+                }
+            ]
+        }
+    ]
+}
